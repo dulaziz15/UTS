@@ -1,0 +1,23 @@
+.validation-content {
+    background-image: url("img/1.jpg");
+}
+
+body {
+    background-color: azure !important;
+}
+
+.contact i {
+    font-size: 70px;
+    margin: 20px;
+    color: brown;
+}
+
+.contact .head {
+    font-size: 19px;
+    font-weight: bold;
+    color: brown;
+}
+
+.contact .sub-title{
+    font-size: 17px;
+}
